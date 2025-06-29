@@ -170,6 +170,6 @@ section + section {
 
 @media (max-width: 600px) {
   .gallery img {
-    height: 250px;
+    height: 350px;
   }
 }
